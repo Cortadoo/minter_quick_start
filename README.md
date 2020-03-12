@@ -1,3 +1,6 @@
 # aes-crypto
 
-## Project se
+## Project setup
+```
+npm install
+``
