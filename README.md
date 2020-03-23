@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [
+See [Configuration Reference](https:
