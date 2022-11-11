@@ -1,4 +1,6 @@
 {
   "name": "aes-crypto",
   "version": "0.1.0",
-  "private"
+  "private": true,
+  "scripts": {
+    "serve":
