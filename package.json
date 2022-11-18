@@ -13,4 +13,5 @@
     "vue-cryptojs": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7
+    "@babel/core": "^7.12.16",
+    "@babel/eslint
