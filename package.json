@@ -14,4 +14,4 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
-    "@babel/eslint
+    "@babel/eslint-parser": "^7
