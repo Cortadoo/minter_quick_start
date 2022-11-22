@@ -15,4 +15,5 @@
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
-    "@vue/cli-plugin
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "
