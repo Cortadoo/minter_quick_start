@@ -28,4 +28,5 @@
       "node": true
     },
     "extends": [
-      "plu
+      "plugin:vue/essential",
+      "
