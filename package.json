@@ -31,4 +31,5 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "parserOptio
+    "parserOptions": {
+      "parser": "@b
