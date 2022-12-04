@@ -33,4 +33,6 @@
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
  
