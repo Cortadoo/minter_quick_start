@@ -35,4 +35,6 @@
       "parser": "@babel/eslint-parser"
     },
     "rules": {}
- 
+  },
+  "browserslist": [
+    
