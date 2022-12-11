@@ -1,2 +1,3 @@
 <template>
-  <d
+  <div id="app">
+    <Hello
