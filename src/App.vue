@@ -5,4 +5,4 @@
 </template>
 
 <script>
-i
+import HelloWorld fr
