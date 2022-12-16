@@ -5,4 +5,4 @@
 </template>
 
 <script>
-import HelloWorld fr
+import HelloWorld from './components/Hel
