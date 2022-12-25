@@ -17,4 +17,4 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, H
+  font-family: Avenir, Helvetica, Arial, sans-ser
