@@ -1,2 +1,3 @@
 <template>
-  <div class
+  <div class="hello">
+    <h1>Tex
