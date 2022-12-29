@@ -1,3 +1,4 @@
 <template>
   <div class="hello">
-    <h1>Tex
+    <h1>TextToEncrypt</h1>
+    <input v-mod
