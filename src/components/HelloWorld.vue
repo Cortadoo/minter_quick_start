@@ -4,4 +4,5 @@
     <input v-model="inputText" placeholder="Enter a string" /> <br /><br/>
     <button @click="encrypt()">Encrypt2</button>
     
-    <h1>{{res
+    <h1>{{resultEncrypt}}</h1> 
+  </
