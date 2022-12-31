@@ -5,4 +5,7 @@
     <button @click="encrypt()">Encrypt2</button>
     
     <h1>{{resultEncrypt}}</h1> 
-  </
+  </div>
+</template>
+
+<script
