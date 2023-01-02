@@ -11,4 +11,5 @@
 <script>
 
 export default {  name: "aes-page",
-  d
+  data: () => ({
+     inputText:"",
