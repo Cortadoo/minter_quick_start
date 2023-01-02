@@ -10,4 +10,5 @@
 
 <script>
 
-export default
+export default {  name: "aes-page",
+  d
