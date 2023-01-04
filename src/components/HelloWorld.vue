@@ -13,4 +13,8 @@
 export default {  name: "aes-page",
   data: () => ({
      inputText:"",
-     resultEncrypt:
+     resultEncrypt: "",
+    }),
+
+
+    methods: {
