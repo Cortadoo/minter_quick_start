@@ -19,4 +19,5 @@ export default {  name: "aes-page",
 
     methods: {
         encrypt(){
-    
+        
+          let key = this.
