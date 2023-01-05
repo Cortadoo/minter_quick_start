@@ -20,4 +20,4 @@ export default {  name: "aes-page",
     methods: {
         encrypt(){
         
-          let key = this.
+          let key = this.$CryptoJS.enc.Utf8.parse('TR
