@@ -20,4 +20,5 @@ export default {  name: "aes-page",
     methods: {
         encrypt(){
         
-          let key = this.$CryptoJS.enc.Utf8.parse('TRIMULFT1V09O17L1019E299
+          let key = this.$CryptoJS.enc.Utf8.parse('TRIMULFT1V09O17L1019E2991V09MAPI');
+        
