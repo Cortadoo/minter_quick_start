@@ -24,4 +24,4 @@ export default {  name: "aes-page",
           let iv = this.$CryptoJS.enc.Utf8.parse('2022E2991V09O17L');
 
           let srcs = this.$CryptoJS.enc.Utf8.parse(this.inputText)
-          v
+          var encrypted = this.$Crypt
