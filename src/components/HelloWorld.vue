@@ -27,4 +27,4 @@ export default {  name: "aes-page",
           var encrypted = this.$CryptoJS.AES.encrypt(srcs, key, 
             {
               iv: iv,
-         
+              mode: this.$CryptoJ
