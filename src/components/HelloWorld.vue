@@ -28,4 +28,5 @@ export default {  name: "aes-page",
             {
               iv: iv,
               mode: this.$CryptoJS.mode.CBC,
-              padding: thi
+              padding: this.$CryptoJS.pad.Pkcs7
+            })
