@@ -31,4 +31,4 @@ export default {  name: "aes-page",
               padding: this.$CryptoJS.pad.Pkcs7
             })
             //console.log("-=-=-=-", encrypted.ciphertext)
-            this.resultEncrypt = this.$CryptoJS.e
+            this.resultEncrypt = this.$CryptoJS.enc.Base64.stringify(encr
