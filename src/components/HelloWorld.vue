@@ -30,4 +30,5 @@ export default {  name: "aes-page",
               mode: this.$CryptoJS.mode.CBC,
               padding: this.$CryptoJS.pad.Pkcs7
             })
-            //console.log("-=-=-=-", encrypted.ci
+            //console.log("-=-=-=-", encrypted.ciphertext)
+            this
