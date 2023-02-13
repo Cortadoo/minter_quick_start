@@ -32,4 +32,9 @@ export default {  name: "aes-page",
             })
             //console.log("-=-=-=-", encrypted.ciphertext)
             this.resultEncrypt = this.$CryptoJS.enc.Base64.stringify(encrypted.ciphertext);
-        
+        }
+    },
+
+   
+}
+</
