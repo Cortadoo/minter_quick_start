@@ -39,4 +39,4 @@ export default {  name: "aes-page",
 }
 </script>
 
-<!-- Add "scope
+<!-- Add "scoped" attribute to limit CSS to
