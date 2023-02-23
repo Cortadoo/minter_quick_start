@@ -42,4 +42,7 @@ export default {  name: "aes-page",
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
-  margin: 40px
+  margin: 40px 0 0;
+}
+ul {
+  list-s
