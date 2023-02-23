@@ -49,4 +49,4 @@ ul {
   padding: 0;
 }
 li {
-  di
+  display: inline-block;
