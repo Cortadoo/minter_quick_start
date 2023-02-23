@@ -46,4 +46,7 @@ h3 {
 }
 ul {
   list-style-type: none;
-  paddi
+  padding: 0;
+}
+li {
+  di
