@@ -1,3 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-import VueCrypto
+import VueCryptojs from 'vue-cryptojs'
+
+Vue.c
