@@ -6,4 +6,5 @@ Vue.config.productionTip = false
 Vue.use(VueCryptojs)
 
 new Vue({
-  render: h =
+  render: h => h(App),
+}).$mount('#app')
