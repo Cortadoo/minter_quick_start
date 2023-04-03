@@ -5,4 +5,5 @@ import VueCryptojs from 'vue-cryptojs'
 Vue.config.productionTip = false
 Vue.use(VueCryptojs)
 
-new V
+new Vue({
+  render: h =
